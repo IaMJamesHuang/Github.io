@@ -14,6 +14,7 @@
 
 ## 算法
 * 动态规划：[关于动态规划的方法论与例题](https://github.com/IaMJamesHuang/Github.io/blob/master/algorithm/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md)
+* 贪心算法：[关于贪心算法的方法论与例题](https://github.com/IaMJamesHuang/Github.io/blob/master/algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95.md)
 ## 操作系统
 
 ## Java

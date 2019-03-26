@@ -30,4 +30,8 @@
 
 * Handler：[Handler源码解析](https://github.com/IaMJamesHuang/Github.io/blob/master/android/Handler.md)
 
+* Android动态加载技术：[Android动态加载技术基础之类加载](https://github.com/IaMJamesHuang/Github.io/blob/master/android/Android%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E4%B9%8B%E7%B1%BB%E5%8A%A0%E8%BD%BD.md) 、
+ [Android动态加载技术基础之Class文件与Dex文件的结构](https://github.com/IaMJamesHuang/Github.io/blob/master/android/Android%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E4%B9%8BClass%E6%96%87%E4%BB%B6%E4%B8%8EDex%E6%96%87%E4%BB%B6%E7%9A%84%E7%BB%93%E6%9E%84.md) 、
+  [Android动态加载技术基础之JVM，DVM，ART的区别](https://github.com/IaMJamesHuang/Github.io/blob/master/android/Android%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E4%B9%8BJVM%EF%BC%8CDVM%EF%BC%8CART%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
 ## 横向扩展

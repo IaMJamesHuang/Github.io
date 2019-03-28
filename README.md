@@ -22,6 +22,8 @@
 
 * Hashmap：[Hashmap笔记](https://github.com/IaMJamesHuang/Github.io/blob/master/java/Hashmap.md)
 
+* 并发：[java同步机制](https://github.com/IaMJamesHuang/Github.io/blob/master/java/Java%E5%90%8C%E6%AD%A5%E6%9C%BA%E5%88%B6.md)
+
 ## Android
 * 热修复：[Android热修复技术漫谈](https://github.com/IaMJamesHuang/Github.io/blob/master/android/%E7%83%AD%E4%BF%AE%E5%A4%8D.md)
 * android注解：[Android通过注解实现动作追踪注入框架](https://github.com/IaMJamesHuang/Github.io/blob/master/android/%E6%B3%A8%E8%A7%A3.md)

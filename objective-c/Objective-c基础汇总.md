@@ -225,6 +225,9 @@ runtime消息转发的流程如下，如果当前对象无法响应接受的消�
 
 ![image.png](img/img22.jpg)
 
+![image.png](img/img24.jpg)
+
+
 **重定向**
 
 在resolveInstanceMethod返回NO的情况下，系统允许消息进行重定向。消息转发机制执行前，Runtime 系统允许我们替换消息的接收者为其他对象。通过 - (id)forwardingTargetForSelector:(SEL)aSelector 方法。
@@ -274,7 +277,9 @@ forwardInvocation: 方法就是一个不能识别消息的分发中心，将这�
 
 消息转发弥补了 Objc 不支持多继承的性质，也避免了因为多继承导致单个类变得臃肿复杂。
 
+## NSProxy
 
+NSProxy是一个抽象超类，同时也是唯一一个不继承于NSObject的类
 
 
 
